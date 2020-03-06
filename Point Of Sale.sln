@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point Of Sale", "Point Of Sale\Point Of Sale.csproj", "{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|x64.ActiveCfg = Debug|x64
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|x64.Build.0 = Debug|x64
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|x86.ActiveCfg = Debug|x86
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Debug|x86.Build.0 = Debug|x86
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|x64.ActiveCfg = Release|x64
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|x64.Build.0 = Release|x64
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|x86.ActiveCfg = Release|x86
+		{9B626DD6-D8F8-4DD1-870B-E8456A5C3EDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
